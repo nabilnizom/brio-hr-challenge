@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "66c4aef146ff595242c61e31",
+    "code": "leave-balance-reminder",
+    "channels": ["66c4a8d673e7b7831094ca64"],
+    "content": "Please remember to take your holiday",
+    "__v": 0,
+    "subject": "Holiday reminder"
+  },
+  {
+    "_id": "66c4afe646ff595242c61e37",
+    "code": "monthly-payslip",
+    "channels": ["66c4a02fc7fcc052437252fb"],
+    "subject": "Here's your {{payslipMonth}} payslip",
+    "content": "{{payslipMonth}} payslip",
+    "__v": 0
+  },
+  {
+    "_id": "66c4b2ea6eb9d3fda0a23ac3",
+    "code": "happy-birthday",
+    "channels": ["66c4a02fc7fcc052437252fb", "66c4a8d673e7b7831094ca64"],
+    "subject": "Happy Birthday {{employeeName}}! Enjoy your day.",
+    "content": "Happy Birthday {{employeeName}}",
+    "__v": 0
+  }
+]

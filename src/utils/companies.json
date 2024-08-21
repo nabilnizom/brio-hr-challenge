@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "c00000000000000000000001",
+    "name": "Company Email + UI",
+    "subscribedChannels": [
+      "66c4a02fc7fcc052437252fb",
+      "66c4a8d673e7b7831094ca64"
+    ]
+  },
+  {
+    "_id": "c00000000000000000000002",
+    "name": "Company Email",
+    "subscribedChannels": ["66c4a02fc7fcc052437252fb"]
+  },
+  {
+    "_id": "c00000000000000000000003",
+    "name": "Company UI",
+    "subscribedChannels": ["66c4a8d673e7b7831094ca64"]
+  },
+  {
+    "_id": "c00000000000000000000004",
+    "name": "Company None",
+    "subscribedChannels": []
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "66c4a02fc7fcc052437252fb",
+    "name": "Email Channel",
+    "type": "email",
+    "__v": 0
+  },
+  {
+    "_id": "66c4a8d673e7b7831094ca64",
+    "name": "UI",
+    "type": "ui",
+    "__v": 0
+  }
+]

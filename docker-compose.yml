@@ -1,0 +1,21 @@
+version: '3.7'
+
+services:
+  app:
+    image: briohr-challenge
+    ports:
+      - '3000:3000'
+    networks:
+      - briohr-challenge-network
+
+  mongodb:
+    image: mongo
+    ports:
+      - '27017:27017'
+    networks:
+      - briohr-challenge-network
+
+networks:
+  briohr-challenge-network:
+    driver: bridge
+    name: briohr-challenge-network

@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "a00000000000000000000001",
+    "name": "USER 1: Email + UI",
+    "email": "user1@mail.com",
+    "subscribedChannels": [
+      "66c4a02fc7fcc052437252fb",
+      "66c4a8d673e7b7831094ca64"
+    ],
+    "companyId": "c00000000000000000000001"
+  },
+  {
+    "_id": "a00000000000000000000002",
+    "name": "USER 2: Email",
+    "email": "user2@mail.com",
+    "subscribedChannels": ["66c4a02fc7fcc052437252fb"],
+    "companyId": "c00000000000000000000001"
+  },
+  {
+    "_id": "a00000000000000000000003",
+    "name": "USER 3: UI",
+    "email": "user3@mail.com",
+    "subscribedChannels": ["66c4a8d673e7b7831094ca64"],
+    "companyId": "c00000000000000000000001"
+  },
+  {
+    "_id": "a00000000000000000000004",
+    "name": "USER 4: None",
+    "email": "user4@mail.com",
+    "subscribedChannels": [],
+    "companyId": "c00000000000000000000001"
+  },
+  {
+    "_id": "a00000000000000000000005",
+    "name": "USER 5: Company Email",
+    "email": "user5@mail.com",
+    "subscribedChannels": [
+      "66c4a02fc7fcc052437252fb",
+      "66c4a8d673e7b7831094ca64"
+    ],
+    "companyId": "c00000000000000000000002"
+  },
+  {
+    "_id": "a00000000000000000000006",
+    "name": "USER 6: Company UI",
+    "email": "user6@mail.com",
+    "subscribedChannels": [
+      "66c4a02fc7fcc052437252fb",
+      "66c4a8d673e7b7831094ca64"
+    ],
+    "companyId": "c00000000000000000000003"
+  },
+  {
+    "_id": "a00000000000000000000007",
+    "name": "USER 7: Company None",
+    "email": "user7@mail.com",
+    "subscribedChannels": [
+      "66c4a02fc7fcc052437252fb",
+      "66c4a8d673e7b7831094ca64"
+    ],
+    "companyId": "c00000000000000000000004"
+  }
+]
